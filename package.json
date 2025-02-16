@@ -1,16 +1,16 @@
 {
-	"name": "karin-mys-template",
+	"name": "karin-mys-genshin",
 	"version": "1.0.0",
 	"author": "babanbang",
 	"type": "module",
-	"description": "karin mys plugins template",
-	"homepage": "https://github.com/Karin-Mys-Plugins/mys-template",
+	"description": "karin mys plugins genshin",
+	"homepage": "https://github.com/Karin-Mys-Plugins/mys-genshin",
 	"bugs": {
-		"url": "https://github.com/Karin-Mys-Plugins/mys-template/issues"
+		"url": "https://github.com/Karin-Mys-Plugins/mys-genshin/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/Karin-Mys-Plugins/mys-template.git"
+		"url": "git+https://github.com/Karin-Mys-Plugins/mys-genshin.git"
 	},
 	"scripts": {
 		"build": "tsc --project tsconfig.json && tsc-alias -p tsconfig.json",
